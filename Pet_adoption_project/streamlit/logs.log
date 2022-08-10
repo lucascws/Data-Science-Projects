@@ -1,0 +1,1126 @@
+2022-08-03 22:38:29,877:INFO:Initializing load_model()
+2022-08-03 22:38:29,877:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:40:06,503:INFO:Initializing load_model()
+2022-08-03 22:40:06,504:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:41:05,957:INFO:Initializing load_model()
+2022-08-03 22:41:05,957:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:41:33,457:INFO:Initializing load_model()
+2022-08-03 22:41:33,458:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:41:33,514:INFO:Initializing predict_model()
+2022-08-03 22:41:33,515:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:41:33,515:INFO:Checking exceptions
+2022-08-03 22:41:33,515:INFO:Preloading libraries
+2022-08-03 22:43:42,071:INFO:Initializing load_model()
+2022-08-03 22:43:42,072:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:44:46,955:INFO:Initializing load_model()
+2022-08-03 22:44:46,955:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:27,321:INFO:Initializing load_model()
+2022-08-03 22:45:27,321:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:30,824:INFO:Initializing load_model()
+2022-08-03 22:45:30,824:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:31,266:INFO:Initializing load_model()
+2022-08-03 22:45:31,266:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:37,807:INFO:Initializing load_model()
+2022-08-03 22:45:37,807:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:37,848:INFO:Initializing predict_model()
+2022-08-03 22:45:37,848:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:45:37,848:INFO:Checking exceptions
+2022-08-03 22:45:37,849:INFO:Preloading libraries
+2022-08-03 22:45:41,319:INFO:Initializing load_model()
+2022-08-03 22:45:41,319:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:41,767:INFO:Initializing load_model()
+2022-08-03 22:45:41,767:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:41,808:INFO:Initializing predict_model()
+2022-08-03 22:45:41,809:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:45:41,809:INFO:Checking exceptions
+2022-08-03 22:45:41,809:INFO:Preloading libraries
+2022-08-03 22:45:44,493:INFO:Initializing load_model()
+2022-08-03 22:45:44,493:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:45,122:INFO:Initializing load_model()
+2022-08-03 22:45:45,122:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:45,165:INFO:Initializing predict_model()
+2022-08-03 22:45:45,167:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:45:45,167:INFO:Checking exceptions
+2022-08-03 22:45:45,168:INFO:Preloading libraries
+2022-08-03 22:45:47,176:INFO:Initializing load_model()
+2022-08-03 22:45:47,176:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:47,572:INFO:Initializing load_model()
+2022-08-03 22:45:47,572:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:48,216:INFO:Initializing load_model()
+2022-08-03 22:45:48,217:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:50,339:INFO:Initializing load_model()
+2022-08-03 22:45:50,340:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:50,932:INFO:Initializing load_model()
+2022-08-03 22:45:50,932:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:52,776:INFO:Initializing load_model()
+2022-08-03 22:45:52,776:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:53,949:INFO:Initializing load_model()
+2022-08-03 22:45:53,949:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:53,989:INFO:Initializing predict_model()
+2022-08-03 22:45:53,989:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:45:53,989:INFO:Checking exceptions
+2022-08-03 22:45:53,989:INFO:Preloading libraries
+2022-08-03 22:45:56,719:INFO:Initializing load_model()
+2022-08-03 22:45:56,720:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:57,701:INFO:Initializing load_model()
+2022-08-03 22:45:57,703:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:45:57,744:INFO:Initializing predict_model()
+2022-08-03 22:45:57,745:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:45:57,745:INFO:Checking exceptions
+2022-08-03 22:45:57,745:INFO:Preloading libraries
+2022-08-03 22:46:00,054:INFO:Initializing load_model()
+2022-08-03 22:46:00,055:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:00,823:INFO:Initializing load_model()
+2022-08-03 22:46:00,823:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:00,864:INFO:Initializing predict_model()
+2022-08-03 22:46:00,864:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:46:00,864:INFO:Checking exceptions
+2022-08-03 22:46:00,865:INFO:Preloading libraries
+2022-08-03 22:46:03,054:INFO:Initializing load_model()
+2022-08-03 22:46:03,054:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:03,735:INFO:Initializing load_model()
+2022-08-03 22:46:03,735:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:03,775:INFO:Initializing predict_model()
+2022-08-03 22:46:03,776:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:46:03,776:INFO:Checking exceptions
+2022-08-03 22:46:03,777:INFO:Preloading libraries
+2022-08-03 22:46:10,615:INFO:Initializing load_model()
+2022-08-03 22:46:10,615:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:11,357:INFO:Initializing load_model()
+2022-08-03 22:46:11,358:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:11,398:INFO:Initializing predict_model()
+2022-08-03 22:46:11,398:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:46:11,398:INFO:Checking exceptions
+2022-08-03 22:46:11,398:INFO:Preloading libraries
+2022-08-03 22:46:14,355:INFO:Initializing load_model()
+2022-08-03 22:46:14,356:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:14,775:INFO:Initializing load_model()
+2022-08-03 22:46:14,776:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:46:14,816:INFO:Initializing predict_model()
+2022-08-03 22:46:14,816:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:46:14,817:INFO:Checking exceptions
+2022-08-03 22:46:14,817:INFO:Preloading libraries
+2022-08-03 22:47:19,551:INFO:Initializing load_model()
+2022-08-03 22:47:19,552:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:47:19,596:INFO:Initializing predict_model()
+2022-08-03 22:47:19,596:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:47:19,597:INFO:Checking exceptions
+2022-08-03 22:47:19,597:INFO:Preloading libraries
+2022-08-03 22:47:44,815:INFO:Initializing load_model()
+2022-08-03 22:47:44,815:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:47:46,397:INFO:Initializing load_model()
+2022-08-03 22:47:46,397:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:47:46,437:INFO:Initializing predict_model()
+2022-08-03 22:47:46,438:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:47:46,438:INFO:Checking exceptions
+2022-08-03 22:47:46,438:INFO:Preloading libraries
+2022-08-03 22:47:48,662:INFO:Initializing load_model()
+2022-08-03 22:47:48,662:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:47:48,703:INFO:Initializing predict_model()
+2022-08-03 22:47:48,703:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:47:48,704:INFO:Checking exceptions
+2022-08-03 22:47:48,704:INFO:Preloading libraries
+2022-08-03 22:48:06,771:INFO:Initializing load_model()
+2022-08-03 22:48:06,771:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:07,570:INFO:Initializing load_model()
+2022-08-03 22:48:07,570:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:07,612:INFO:Initializing predict_model()
+2022-08-03 22:48:07,613:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:48:07,613:INFO:Checking exceptions
+2022-08-03 22:48:07,614:INFO:Preloading libraries
+2022-08-03 22:48:24,623:INFO:Initializing load_model()
+2022-08-03 22:48:24,623:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:33,406:INFO:Initializing load_model()
+2022-08-03 22:48:33,406:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:34,085:INFO:Initializing load_model()
+2022-08-03 22:48:34,086:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:34,257:INFO:Initializing load_model()
+2022-08-03 22:48:34,258:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:34,427:INFO:Initializing load_model()
+2022-08-03 22:48:34,428:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:34,599:INFO:Initializing load_model()
+2022-08-03 22:48:34,599:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:34,773:INFO:Initializing load_model()
+2022-08-03 22:48:34,773:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:34,943:INFO:Initializing load_model()
+2022-08-03 22:48:34,943:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:35,114:INFO:Initializing load_model()
+2022-08-03 22:48:35,115:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:35,288:INFO:Initializing load_model()
+2022-08-03 22:48:35,289:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:35,454:INFO:Initializing load_model()
+2022-08-03 22:48:35,455:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:35,644:INFO:Initializing load_model()
+2022-08-03 22:48:35,644:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:35,822:INFO:Initializing load_model()
+2022-08-03 22:48:35,822:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:35,993:INFO:Initializing load_model()
+2022-08-03 22:48:35,993:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:36,172:INFO:Initializing load_model()
+2022-08-03 22:48:36,173:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:38,687:INFO:Initializing load_model()
+2022-08-03 22:48:38,688:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:38,874:INFO:Initializing load_model()
+2022-08-03 22:48:38,875:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:39,077:INFO:Initializing load_model()
+2022-08-03 22:48:39,077:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:39,272:INFO:Initializing load_model()
+2022-08-03 22:48:39,272:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:39,465:INFO:Initializing load_model()
+2022-08-03 22:48:39,465:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:39,652:INFO:Initializing load_model()
+2022-08-03 22:48:39,652:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:39,840:INFO:Initializing load_model()
+2022-08-03 22:48:39,840:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:40,037:INFO:Initializing load_model()
+2022-08-03 22:48:40,037:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:40,245:INFO:Initializing load_model()
+2022-08-03 22:48:40,245:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:40,441:INFO:Initializing load_model()
+2022-08-03 22:48:40,443:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:40,632:INFO:Initializing load_model()
+2022-08-03 22:48:40,632:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:40,859:INFO:Initializing load_model()
+2022-08-03 22:48:40,859:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:48:41,069:INFO:Initializing load_model()
+2022-08-03 22:48:41,071:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:02,463:INFO:Initializing load_model()
+2022-08-03 22:49:02,463:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:06,856:INFO:Initializing load_model()
+2022-08-03 22:49:06,856:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:07,456:INFO:Initializing load_model()
+2022-08-03 22:49:07,456:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:07,497:INFO:Initializing predict_model()
+2022-08-03 22:49:07,498:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:49:07,498:INFO:Checking exceptions
+2022-08-03 22:49:07,498:INFO:Preloading libraries
+2022-08-03 22:49:09,496:INFO:Initializing load_model()
+2022-08-03 22:49:09,496:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:11,154:INFO:Initializing load_model()
+2022-08-03 22:49:11,154:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:12,006:INFO:Initializing load_model()
+2022-08-03 22:49:12,006:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:12,045:INFO:Initializing predict_model()
+2022-08-03 22:49:12,046:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:49:12,046:INFO:Checking exceptions
+2022-08-03 22:49:12,047:INFO:Preloading libraries
+2022-08-03 22:49:16,707:INFO:Initializing load_model()
+2022-08-03 22:49:16,707:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:24,480:INFO:Initializing load_model()
+2022-08-03 22:49:24,480:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:28,155:INFO:Initializing load_model()
+2022-08-03 22:49:28,155:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:30,714:INFO:Initializing load_model()
+2022-08-03 22:49:30,714:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:36,416:INFO:Initializing load_model()
+2022-08-03 22:49:36,416:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:38,128:INFO:Initializing load_model()
+2022-08-03 22:49:38,129:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:39,373:INFO:Initializing load_model()
+2022-08-03 22:49:39,374:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:42,127:INFO:Initializing load_model()
+2022-08-03 22:49:42,128:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:44,772:INFO:Initializing load_model()
+2022-08-03 22:49:44,772:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:45,756:INFO:Initializing load_model()
+2022-08-03 22:49:45,757:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:47,368:INFO:Initializing load_model()
+2022-08-03 22:49:47,368:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:49,636:INFO:Initializing load_model()
+2022-08-03 22:49:49,636:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:49:49,677:INFO:Initializing predict_model()
+2022-08-03 22:49:49,677:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:49:49,678:INFO:Checking exceptions
+2022-08-03 22:49:49,678:INFO:Preloading libraries
+2022-08-03 22:50:01,063:INFO:Initializing load_model()
+2022-08-03 22:50:01,063:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:50:01,980:INFO:Initializing load_model()
+2022-08-03 22:50:01,981:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 22:50:02,019:INFO:Initializing predict_model()
+2022-08-03 22:50:02,020:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 22:50:02,020:INFO:Checking exceptions
+2022-08-03 22:50:02,020:INFO:Preloading libraries
+2022-08-03 22:51:33,365:INFO:Initializing load_model()
+2022-08-03 22:51:33,365:INFO:load_model(model_name=pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 23:23:55,763:INFO:Initializing load_model()
+2022-08-03 23:23:55,763:INFO:load_model(model_name=../models/pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 23:23:58,476:INFO:Initializing load_model()
+2022-08-03 23:23:58,477:INFO:load_model(model_name=../models/pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 23:23:58,533:INFO:Initializing predict_model()
+2022-08-03 23:23:58,533:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 23:23:58,533:INFO:Checking exceptions
+2022-08-03 23:23:58,534:INFO:Preloading libraries
+2022-08-03 23:24:02,805:INFO:Initializing load_model()
+2022-08-03 23:24:02,805:INFO:load_model(model_name=../models/pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 23:24:03,663:INFO:Initializing load_model()
+2022-08-03 23:24:03,664:INFO:load_model(model_name=../models/pred_model1, platform=None, authentication=None, verbose=True)
+2022-08-03 23:24:03,705:INFO:Initializing predict_model()
+2022-08-03 23:24:03,706:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('fix_perfect', Remove_100(target='NotAdopted')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=2,
+                                feature_fraction=0.4, min_child_samples=41,
+                                min_split_gain=0.9, n_estimators=260,
+                                num_leaves=70, random_state=123, reg_alpha=2,
+                                reg_lambda=3)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 23:24:03,706:INFO:Checking exceptions
+2022-08-03 23:24:03,706:INFO:Preloading libraries
+2022-08-03 23:30:53,599:INFO:Initializing load_model()
+2022-08-03 23:30:53,599:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:31:17,979:INFO:Initializing load_model()
+2022-08-03 23:31:17,979:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:31:30,697:INFO:Initializing load_model()
+2022-08-03 23:31:30,707:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:31:47,275:INFO:Initializing load_model()
+2022-08-03 23:31:47,275:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:31:53,857:INFO:Initializing load_model()
+2022-08-03 23:31:53,857:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:32:09,934:INFO:Initializing load_model()
+2022-08-03 23:32:09,934:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:04,324:INFO:Initializing load_model()
+2022-08-03 23:38:04,324:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:12,401:INFO:Initializing load_model()
+2022-08-03 23:38:12,401:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:16,539:INFO:Initializing load_model()
+2022-08-03 23:38:16,540:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:22,896:INFO:Initializing load_model()
+2022-08-03 23:38:22,896:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:24,956:INFO:Initializing predict_model()
+2022-08-03 23:38:24,956:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 23:38:24,956:INFO:Checking exceptions
+2022-08-03 23:38:24,957:INFO:Preloading libraries
+2022-08-03 23:38:44,051:INFO:Initializing load_model()
+2022-08-03 23:38:44,051:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:48,461:INFO:Initializing load_model()
+2022-08-03 23:38:48,461:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:53,691:INFO:Initializing load_model()
+2022-08-03 23:38:53,691:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:38:55,873:INFO:Initializing predict_model()
+2022-08-03 23:38:55,873:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 23:38:55,873:INFO:Checking exceptions
+2022-08-03 23:38:55,884:INFO:Preloading libraries
+2022-08-03 23:39:09,387:INFO:Initializing load_model()
+2022-08-03 23:39:09,387:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:39:15,058:INFO:Initializing load_model()
+2022-08-03 23:39:15,058:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:41:06,560:INFO:Initializing load_model()
+2022-08-03 23:41:06,560:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:41:14,466:INFO:Initializing load_model()
+2022-08-03 23:41:14,467:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:41:19,026:INFO:Initializing load_model()
+2022-08-03 23:41:19,027:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:41:24,242:INFO:Initializing load_model()
+2022-08-03 23:41:24,242:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:41:28,513:INFO:Initializing load_model()
+2022-08-03 23:41:28,513:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:41:33,912:INFO:Initializing load_model()
+2022-08-03 23:41:33,919:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:43:29,245:INFO:Initializing load_model()
+2022-08-03 23:43:29,245:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:43:37,084:INFO:Initializing load_model()
+2022-08-03 23:43:37,084:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:49:39,613:INFO:Initializing load_model()
+2022-08-03 23:49:39,613:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:49:45,329:INFO:Initializing load_model()
+2022-08-03 23:49:45,329:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:49:47,313:INFO:Initializing predict_model()
+2022-08-03 23:49:47,313:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 23:49:47,314:INFO:Checking exceptions
+2022-08-03 23:49:47,314:INFO:Preloading libraries
+2022-08-03 23:50:54,645:INFO:Initializing load_model()
+2022-08-03 23:50:54,645:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:53:37,013:INFO:Initializing load_model()
+2022-08-03 23:53:37,013:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:53:47,480:INFO:Initializing load_model()
+2022-08-03 23:53:47,480:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:53:53,815:INFO:Initializing load_model()
+2022-08-03 23:53:53,830:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:53:58,527:INFO:Initializing load_model()
+2022-08-03 23:53:58,527:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:54:05,197:INFO:Initializing load_model()
+2022-08-03 23:54:05,197:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:54:18,655:INFO:Initializing load_model()
+2022-08-03 23:54:18,664:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-03 23:54:20,722:INFO:Initializing predict_model()
+2022-08-03 23:54:20,723:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-03 23:54:20,723:INFO:Checking exceptions
+2022-08-03 23:54:20,723:INFO:Preloading libraries
+2022-08-04 09:15:06,036:INFO:Initializing load_model()
+2022-08-04 09:15:06,036:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 09:15:38,290:INFO:Initializing load_model()
+2022-08-04 09:15:38,291:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 09:15:40,734:INFO:Initializing predict_model()
+2022-08-04 09:15:40,734:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 09:15:40,734:INFO:Checking exceptions
+2022-08-04 09:15:40,734:INFO:Preloading libraries
+2022-08-04 09:16:03,552:INFO:Initializing load_model()
+2022-08-04 09:16:03,552:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 09:16:05,768:INFO:Initializing predict_model()
+2022-08-04 09:16:05,784:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 09:16:05,784:INFO:Checking exceptions
+2022-08-04 09:16:05,784:INFO:Preloading libraries
+2022-08-04 09:16:50,602:INFO:Initializing load_model()
+2022-08-04 09:16:50,609:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 09:16:52,506:INFO:Initializing predict_model()
+2022-08-04 09:16:52,506:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 09:16:52,506:INFO:Checking exceptions
+2022-08-04 09:16:52,506:INFO:Preloading libraries
+2022-08-04 12:27:16,765:INFO:Initializing load_model()
+2022-08-04 12:27:16,766:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 12:36:12,342:INFO:Initializing load_model()
+2022-08-04 12:36:12,342:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 12:36:19,149:INFO:Initializing predict_model()
+2022-08-04 12:36:19,149:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 12:36:19,149:INFO:Checking exceptions
+2022-08-04 12:36:19,149:INFO:Preloading libraries
+2022-08-04 12:41:08,157:INFO:Initializing load_model()
+2022-08-04 12:41:08,158:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 12:43:55,527:INFO:Initializing load_model()
+2022-08-04 12:43:55,543:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 12:44:00,625:INFO:Initializing predict_model()
+2022-08-04 12:44:00,625:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 12:44:00,625:INFO:Checking exceptions
+2022-08-04 12:44:00,626:INFO:Preloading libraries
+2022-08-04 12:49:52,925:INFO:Initializing load_model()
+2022-08-04 12:49:52,925:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 12:49:58,831:INFO:Initializing load_model()
+2022-08-04 12:49:58,842:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 12:50:00,570:INFO:Initializing predict_model()
+2022-08-04 12:50:00,570:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 12:50:00,570:INFO:Checking exceptions
+2022-08-04 12:50:00,570:INFO:Preloading libraries
+2022-08-04 12:50:09,540:INFO:Initializing load_model()
+2022-08-04 12:50:09,540:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 12:50:11,326:INFO:Initializing predict_model()
+2022-08-04 12:50:11,326:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 12:50:11,326:INFO:Checking exceptions
+2022-08-04 12:50:11,326:INFO:Preloading libraries
+2022-08-04 13:10:47,527:INFO:Initializing load_model()
+2022-08-04 13:10:47,527:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 13:10:49,353:INFO:Initializing predict_model()
+2022-08-04 13:10:49,353:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 13:10:49,353:INFO:Checking exceptions
+2022-08-04 13:10:49,353:INFO:Preloading libraries
+2022-08-04 13:13:59,051:INFO:Initializing load_model()
+2022-08-04 13:13:59,051:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 13:14:07,616:INFO:Initializing load_model()
+2022-08-04 13:14:07,616:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 13:14:09,404:INFO:Initializing predict_model()
+2022-08-04 13:14:09,404:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 13:14:09,404:INFO:Checking exceptions
+2022-08-04 13:14:09,404:INFO:Preloading libraries
+2022-08-04 13:14:52,024:INFO:Initializing load_model()
+2022-08-04 13:14:52,024:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 13:14:57,819:INFO:Initializing load_model()
+2022-08-04 13:14:57,819:INFO:load_model(model_name=../models/pred_model2, platform=None, authentication=None, verbose=True)
+2022-08-04 13:14:59,615:INFO:Initializing predict_model()
+2022-08-04 13:14:59,615:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Quantity'],
+                                      target='NotAdopted')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replace...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.6, bagging_freq=4,
+                                feature_fraction=0.9, learning_rate=0.05,
+                                min_child_samples=96, min_split_gain=0.7,
+                                n_estimators=180, num_leaves=10,
+                                random_state=123, reg_alpha=0.0001,
+                                reg_lambda=0.1)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None, drift_kwargs=None)
+2022-08-04 13:14:59,615:INFO:Checking exceptions
+2022-08-04 13:14:59,615:INFO:Preloading libraries
