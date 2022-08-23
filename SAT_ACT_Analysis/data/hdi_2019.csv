@@ -1,0 +1,53 @@
+Country,ISO_Code,Level,GDLCODE,Region,"2019"
+"United States","USA","National","USAt","Total",0.926
+"United States","USA","Subnat","USAr101","Alabama",0.886
+"United States","USA","Subnat","USAr102","Alaska",0.936
+"United States","USA","Subnat","USAr103","Arizona",0.913
+"United States","USA","Subnat","USAr104","Arkansas",0.886
+"United States","USA","Subnat","USAr105","California",0.936
+"United States","USA","Subnat","USAr106","Colorado",0.948
+"United States","USA","Subnat","USAr107","Connecticut",0.954
+"United States","USA","Subnat","USAr108","Delaware",0.936
+"United States","USA","Subnat","USAr109","District of Columbia",0.946
+"United States","USA","Subnat","USAr110","Florida",0.916
+"United States","USA","Subnat","USAr111","Georgia",0.910
+"United States","USA","Subnat","USAr112","Hawaii",0.945
+"United States","USA","Subnat","USAr113","Idaho",0.912
+"United States","USA","Subnat","USAr114","Illinois",0.934
+"United States","USA","Subnat","USAr115","Indiana",0.912
+"United States","USA","Subnat","USAr116","Iowa",0.935
+"United States","USA","Subnat","USAr117","Kansas",0.927
+"United States","USA","Subnat","USAr118","Kentucky",0.890
+"United States","USA","Subnat","USAr119","Louisiana",0.893
+"United States","USA","Subnat","USAr120","Maine",0.922
+"United States","USA","Subnat","USAr121","Maryland",0.941
+"United States","USA","Subnat","USAr122","Massachusetts",0.956
+"United States","USA","Subnat","USAr123","Michigan",0.918
+"United States","USA","Subnat","USAr124","Minnesota",0.953
+"United States","USA","Subnat","USAr125","Mississippi",0.871
+"United States","USA","Subnat","USAr126","Missouri",0.913
+"United States","USA","Subnat","USAr127","Montana",0.921
+"United States","USA","Subnat","USAr128","Nebraska",0.939
+"United States","USA","Subnat","USAr129","Nevada",0.909
+"United States","USA","Subnat","USAr130","New Hampshire",0.948
+"United States","USA","Subnat","USAr131","New Jersey",0.948
+"United States","USA","Subnat","USAr132","New Mexico",0.906
+"United States","USA","Subnat","USAr133","New York",0.944
+"United States","USA","Subnat","USAr134","North Carolina",0.912
+"United States","USA","Subnat","USAr135","North Dakota",0.946
+"United States","USA","Subnat","USAr136","Ohio",0.919
+"United States","USA","Subnat","USAr137","Oklahoma",0.901
+"United States","USA","Subnat","USAr138","Oregon",0.936
+"United States","USA","Subnat","USAr139","Pennsylvania",0.928
+"United States","USA","Subnat","USAr140","Rhode Island",0.930
+"United States","USA","Subnat","USAr141","South Carolina",0.898
+"United States","USA","Subnat","USAr142","South Dakota",0.932
+"United States","USA","Subnat","USAr143","Tennessee",0.901
+"United States","USA","Subnat","USAr144","Texas",0.917
+"United States","USA","Subnat","USAr145","Utah",0.935
+"United States","USA","Subnat","USAr146","Vermont",0.940
+"United States","USA","Subnat","USAr147","Virginia",0.936
+"United States","USA","Subnat","USAr148","Washington",0.946
+"United States","USA","Subnat","USAr149","West Virginia",0.882
+"United States","USA","Subnat","USAr150","Wisconsin",0.934
+"United States","USA","Subnat","USAr151","Wyoming",0.938

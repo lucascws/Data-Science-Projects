@@ -1,0 +1,301 @@
+,state,participation,score,high_participation,year,test
+0,alabama,1.0,19.2,True,2017,ACT
+1,alaska,0.65,19.8,False,2017,ACT
+2,arizona,0.62,19.7,False,2017,ACT
+3,arkansas,1.0,19.4,True,2017,ACT
+4,california,0.31,22.8,False,2017,ACT
+5,colorado,1.0,20.8,True,2017,ACT
+6,connecticut,0.31,25.2,False,2017,ACT
+7,delaware,0.18,24.1,False,2017,ACT
+8,florida,0.73,19.8,False,2017,ACT
+9,georgia,0.55,21.4,False,2017,ACT
+10,hawaii,0.9,19.0,True,2017,ACT
+11,idaho,0.38,22.3,False,2017,ACT
+12,illinois,0.93,21.4,True,2017,ACT
+13,indiana,0.35,22.6,False,2017,ACT
+14,iowa,0.67,21.9,False,2017,ACT
+15,kansas,0.73,21.7,False,2017,ACT
+16,kentucky,1.0,20.0,True,2017,ACT
+17,louisiana,1.0,19.5,True,2017,ACT
+18,maine,0.08,24.3,False,2017,ACT
+19,maryland,0.28,23.6,False,2017,ACT
+20,massachusetts,0.29,25.4,False,2017,ACT
+21,michigan,0.29,24.1,False,2017,ACT
+22,minnesota,1.0,21.5,True,2017,ACT
+23,mississippi,1.0,18.6,True,2017,ACT
+24,missouri,1.0,20.4,True,2017,ACT
+25,montana,1.0,20.3,True,2017,ACT
+26,nebraska,0.84,21.4,False,2017,ACT
+27,nevada,1.0,17.8,True,2017,ACT
+28,new hampshire,0.18,25.5,False,2017,ACT
+29,new jersey,0.34,23.9,False,2017,ACT
+30,new mexico,0.66,19.7,False,2017,ACT
+31,new york,0.31,24.2,False,2017,ACT
+32,north carolina,1.0,19.1,True,2017,ACT
+33,north dakota,0.98,20.3,True,2017,ACT
+34,ohio,0.75,22.0,False,2017,ACT
+35,oklahoma,1.0,19.4,True,2017,ACT
+36,oregon,0.4,21.8,False,2017,ACT
+37,pennsylvania,0.23,23.7,False,2017,ACT
+38,rhode island,0.21,24.0,False,2017,ACT
+39,south carolina,1.0,18.7,True,2017,ACT
+40,south dakota,0.8,21.8,False,2017,ACT
+41,tennessee,1.0,19.8,True,2017,ACT
+42,texas,0.45,20.7,False,2017,ACT
+43,utah,1.0,20.3,True,2017,ACT
+44,vermont,0.29,23.6,False,2017,ACT
+45,virginia,0.29,23.8,False,2017,ACT
+46,washington,0.29,21.9,False,2017,ACT
+47,west virginia,0.69,20.4,False,2017,ACT
+48,wisconsin,1.0,20.5,True,2017,ACT
+49,wyoming,1.0,20.2,True,2017,ACT
+50,alabama,1.0,19.1,True,2018,ACT
+51,alaska,0.33,20.8,False,2018,ACT
+52,arizona,0.66,19.2,False,2018,ACT
+53,arkansas,1.0,19.4,True,2018,ACT
+54,california,0.27,22.7,False,2018,ACT
+55,colorado,0.3,23.9,False,2018,ACT
+56,connecticut,0.26,25.6,False,2018,ACT
+57,delaware,0.17,23.8,False,2018,ACT
+58,florida,0.66,19.9,False,2018,ACT
+59,georgia,0.53,21.4,False,2018,ACT
+60,hawaii,0.89,18.9,False,2018,ACT
+61,idaho,0.36,22.3,False,2018,ACT
+62,illinois,0.43,23.9,False,2018,ACT
+63,indiana,0.32,22.5,False,2018,ACT
+64,iowa,0.68,21.8,False,2018,ACT
+65,kansas,0.71,21.6,False,2018,ACT
+66,kentucky,1.0,20.2,True,2018,ACT
+67,louisiana,1.0,19.2,True,2018,ACT
+68,maine,0.07,24.0,False,2018,ACT
+69,maryland,0.31,22.5,False,2018,ACT
+70,massachusetts,0.25,25.5,False,2018,ACT
+71,michigan,0.22,24.2,False,2018,ACT
+72,minnesota,0.99,21.3,True,2018,ACT
+73,mississippi,1.0,18.6,True,2018,ACT
+74,missouri,1.0,20.0,True,2018,ACT
+75,montana,1.0,20.0,True,2018,ACT
+76,nebraska,1.0,20.1,True,2018,ACT
+77,nevada,1.0,17.7,True,2018,ACT
+78,new hampshire,0.16,25.1,False,2018,ACT
+79,new jersey,0.31,23.7,False,2018,ACT
+80,new mexico,0.67,19.4,False,2018,ACT
+81,new york,0.27,24.5,False,2018,ACT
+82,north carolina,1.0,19.1,True,2018,ACT
+83,north dakota,0.98,20.3,True,2018,ACT
+84,ohio,1.0,20.3,True,2018,ACT
+85,oklahoma,1.0,19.3,True,2018,ACT
+86,oregon,0.42,21.3,False,2018,ACT
+87,pennsylvania,0.2,23.5,False,2018,ACT
+88,rhode island,0.15,24.2,False,2018,ACT
+89,south carolina,1.0,18.3,True,2018,ACT
+90,south dakota,0.77,21.9,False,2018,ACT
+91,tennessee,1.0,19.6,True,2018,ACT
+92,texas,0.45,20.7,False,2018,ACT
+93,utah,1.0,20.4,True,2018,ACT
+94,vermont,0.24,24.1,False,2018,ACT
+95,virginia,0.24,23.9,False,2018,ACT
+96,washington,0.24,22.2,False,2018,ACT
+97,west virginia,0.65,20.3,False,2018,ACT
+98,wisconsin,1.0,20.5,True,2018,ACT
+99,wyoming,1.0,20.0,True,2018,ACT
+100,alabama,1.0,18.9,True,2019,ACT
+101,alaska,0.38,20.1,False,2019,ACT
+102,arizona,0.73,19.0,False,2019,ACT
+103,arkansas,1.0,19.3,True,2019,ACT
+104,california,0.23,22.6,False,2019,ACT
+105,colorado,0.27,23.8,False,2019,ACT
+106,connecticut,0.22,25.5,False,2019,ACT
+107,delaware,0.13,24.1,False,2019,ACT
+108,florida,0.54,20.1,False,2019,ACT
+109,georgia,0.49,21.4,False,2019,ACT
+110,hawaii,0.8,19.0,False,2019,ACT
+111,idaho,0.31,22.5,False,2019,ACT
+112,illinois,0.35,24.3,False,2019,ACT
+113,indiana,0.29,22.5,False,2019,ACT
+114,iowa,0.66,21.6,False,2019,ACT
+115,kansas,0.72,21.2,False,2019,ACT
+116,kentucky,1.0,19.8,True,2019,ACT
+117,louisiana,1.0,18.8,True,2019,ACT
+118,maine,0.06,24.3,False,2019,ACT
+119,maryland,0.28,22.3,False,2019,ACT
+120,massachusetts,0.21,25.5,False,2019,ACT
+121,michigan,0.19,24.4,False,2019,ACT
+122,minnesota,0.95,21.4,True,2019,ACT
+123,mississippi,1.0,18.4,True,2019,ACT
+124,missouri,0.82,20.8,False,2019,ACT
+125,montana,1.0,19.8,True,2019,ACT
+126,nebraska,1.0,20.0,True,2019,ACT
+127,nevada,1.0,17.9,True,2019,ACT
+128,new hampshire,0.14,25.0,False,2019,ACT
+129,new jersey,0.25,24.2,False,2019,ACT
+130,new mexico,0.63,19.3,False,2019,ACT
+131,new york,0.22,24.5,False,2019,ACT
+132,north carolina,1.0,19.0,True,2019,ACT
+133,north dakota,0.96,19.9,True,2019,ACT
+134,ohio,1.0,20.0,True,2019,ACT
+135,oklahoma,1.0,18.9,True,2019,ACT
+136,oregon,0.42,21.1,False,2019,ACT
+137,pennsylvania,0.17,23.6,False,2019,ACT
+138,rhode island,0.12,24.7,False,2019,ACT
+139,south carolina,0.78,18.8,False,2019,ACT
+140,south dakota,0.75,21.6,False,2019,ACT
+141,tennessee,1.0,19.4,True,2019,ACT
+142,texas,0.39,20.5,False,2019,ACT
+143,utah,1.0,20.3,True,2019,ACT
+144,vermont,0.2,24.1,False,2019,ACT
+145,virginia,0.21,24.0,False,2019,ACT
+146,washington,0.24,22.1,False,2019,ACT
+147,west virginia,0.49,20.8,False,2019,ACT
+148,wisconsin,1.0,20.3,True,2019,ACT
+149,wyoming,1.0,19.8,True,2019,ACT
+150,alabama,0.05,1165.0,False,2017,SAT
+151,alaska,0.38,1080.0,False,2017,SAT
+152,arizona,0.3,1116.0,False,2017,SAT
+153,arkansas,0.03,1208.0,False,2017,SAT
+154,california,0.53,1055.0,False,2017,SAT
+155,colorado,0.11,1201.0,False,2017,SAT
+156,connecticut,1.0,1041.0,True,2017,SAT
+157,delaware,1.0,996.0,True,2017,SAT
+158,florida,0.83,1017.0,False,2017,SAT
+159,georgia,0.61,1050.0,False,2017,SAT
+160,hawaii,0.55,1085.0,False,2017,SAT
+161,idaho,0.93,1005.0,True,2017,SAT
+162,illinois,0.09,1115.0,False,2017,SAT
+163,indiana,0.63,1074.0,False,2017,SAT
+164,iowa,0.02,1275.0,False,2017,SAT
+165,kansas,0.04,1260.0,False,2017,SAT
+166,kentucky,0.04,1247.0,False,2017,SAT
+167,louisiana,0.04,1198.0,False,2017,SAT
+168,maine,0.95,1012.0,True,2017,SAT
+169,maryland,0.69,1060.0,False,2017,SAT
+170,massachusetts,0.76,1107.0,False,2017,SAT
+171,michigan,1.0,1005.0,True,2017,SAT
+172,minnesota,0.03,1295.0,False,2017,SAT
+173,mississippi,0.02,1242.0,False,2017,SAT
+174,missouri,0.03,1271.0,False,2017,SAT
+175,montana,0.1,1196.0,False,2017,SAT
+176,nebraska,0.03,1253.0,False,2017,SAT
+177,nevada,0.26,1116.0,False,2017,SAT
+178,new hampshire,0.96,1052.0,True,2017,SAT
+179,new jersey,0.7,1056.0,False,2017,SAT
+180,new mexico,0.11,1138.0,False,2017,SAT
+181,new york,0.67,1052.0,False,2017,SAT
+182,north carolina,0.49,1081.0,False,2017,SAT
+183,north dakota,0.02,1256.0,False,2017,SAT
+184,ohio,0.12,1149.0,False,2017,SAT
+185,oklahoma,0.07,1047.0,False,2017,SAT
+186,oregon,0.43,1108.0,False,2017,SAT
+187,pennsylvania,0.65,1071.0,False,2017,SAT
+188,rhode island,0.71,1062.0,False,2017,SAT
+189,south carolina,0.5,1064.0,False,2017,SAT
+190,south dakota,0.03,1216.0,False,2017,SAT
+191,tennessee,0.05,1228.0,False,2017,SAT
+192,texas,0.62,1020.0,False,2017,SAT
+193,utah,0.03,1238.0,False,2017,SAT
+194,vermont,0.6,1114.0,False,2017,SAT
+195,virginia,0.65,1102.0,False,2017,SAT
+196,washington,0.64,1075.0,False,2017,SAT
+197,west virginia,0.14,1086.0,False,2017,SAT
+198,wisconsin,0.03,1291.0,False,2017,SAT
+199,wyoming,0.03,1230.0,False,2017,SAT
+200,alabama,0.06,1166.0,False,2018,SAT
+201,alaska,0.43,1106.0,False,2018,SAT
+202,arizona,0.29,1149.0,False,2018,SAT
+203,arkansas,0.05,1169.0,False,2018,SAT
+204,california,0.6,1076.0,False,2018,SAT
+205,colorado,1.0,1025.0,True,2018,SAT
+206,connecticut,1.0,1053.0,True,2018,SAT
+207,delaware,1.0,998.0,True,2018,SAT
+208,florida,0.56,1099.0,False,2018,SAT
+209,georgia,0.7,1064.0,False,2018,SAT
+210,hawaii,0.56,1010.0,False,2018,SAT
+211,idaho,1.0,1001.0,True,2018,SAT
+212,illinois,0.99,1019.0,True,2018,SAT
+213,indiana,0.63,1074.0,False,2018,SAT
+214,iowa,0.03,1265.0,False,2018,SAT
+215,kansas,0.04,1265.0,False,2018,SAT
+216,kentucky,0.04,1248.0,False,2018,SAT
+217,louisiana,0.04,1210.0,False,2018,SAT
+218,maine,0.99,1013.0,True,2018,SAT
+219,maryland,0.76,1080.0,False,2018,SAT
+220,massachusetts,0.8,1125.0,False,2018,SAT
+221,michigan,1.0,1011.0,True,2018,SAT
+222,minnesota,0.04,1298.0,False,2018,SAT
+223,mississippi,0.03,1236.0,False,2018,SAT
+224,missouri,0.04,1262.0,False,2018,SAT
+225,montana,0.1,1198.0,False,2018,SAT
+226,nebraska,0.03,1252.0,False,2018,SAT
+227,nevada,0.23,1140.0,False,2018,SAT
+228,new hampshire,0.96,1063.0,True,2018,SAT
+229,new jersey,0.82,1094.0,False,2018,SAT
+230,new mexico,0.16,1093.0,False,2018,SAT
+231,new york,0.79,1068.0,False,2018,SAT
+232,north carolina,0.52,1098.0,False,2018,SAT
+233,north dakota,0.02,1283.0,False,2018,SAT
+234,oklahoma,0.08,1062.0,False,2018,SAT
+235,ohio,0.18,1099.0,False,2018,SAT
+236,oregon,0.48,1117.0,False,2018,SAT
+237,pennsylvania,0.7,1086.0,False,2018,SAT
+238,rhode island,0.97,1018.0,True,2018,SAT
+239,south carolina,0.55,1070.0,False,2018,SAT
+240,south dakota,0.03,1240.0,False,2018,SAT
+241,tennessee,0.06,1231.0,False,2018,SAT
+242,texas,0.66,1032.0,False,2018,SAT
+243,utah,0.04,1010.0,False,2018,SAT
+244,vermont,0.64,1120.0,False,2018,SAT
+245,virginia,0.68,1117.0,False,2018,SAT
+246,washington,0.69,1081.0,False,2018,SAT
+247,west virginia,0.28,999.0,False,2018,SAT
+248,wisconsin,0.03,1294.0,False,2018,SAT
+249,wyoming,0.03,1257.0,False,2018,SAT
+250,alabama,0.07,1143.0,False,2019,SAT
+251,alaska,0.41,1097.0,False,2019,SAT
+252,arizona,0.31,1134.0,False,2019,SAT
+253,arkansas,0.06,1141.0,False,2019,SAT
+254,california,0.63,1065.0,False,2019,SAT
+255,colorado,1.0,1024.0,True,2019,SAT
+256,connecticut,1.0,1046.0,True,2019,SAT
+257,delaware,1.0,985.0,True,2019,SAT
+258,florida,1.0,999.0,True,2019,SAT
+259,georgia,0.71,1058.0,False,2019,SAT
+260,hawaii,0.54,1100.0,False,2019,SAT
+261,idaho,1.0,993.0,True,2019,SAT
+262,illinois,1.0,1013.0,True,2019,SAT
+263,indiana,0.66,1080.0,False,2019,SAT
+264,iowa,0.03,1244.0,False,2019,SAT
+265,kansas,0.04,1241.0,False,2019,SAT
+266,kentucky,0.04,1232.0,False,2019,SAT
+267,louisiana,0.05,1200.0,False,2019,SAT
+268,maine,0.99,1013.0,True,2019,SAT
+269,maryland,0.82,1058.0,False,2019,SAT
+270,massachusetts,0.81,1120.0,False,2019,SAT
+271,michigan,1.0,1003.0,True,2019,SAT
+272,minnesota,0.04,1284.0,False,2019,SAT
+273,mississippi,0.03,1237.0,False,2019,SAT
+274,missouri,0.04,1236.0,False,2019,SAT
+275,montana,0.09,1199.0,False,2019,SAT
+276,nebraska,0.03,1260.0,False,2019,SAT
+277,nevada,0.2,1156.0,False,2019,SAT
+278,new hampshire,0.95,1059.0,True,2019,SAT
+279,new jersey,0.82,1090.0,False,2019,SAT
+280,new mexico,0.18,1073.0,False,2019,SAT
+281,new york,0.79,1064.0,False,2019,SAT
+282,north carolina,0.51,1100.0,False,2019,SAT
+283,north dakota,0.02,1263.0,False,2019,SAT
+284,ohio,0.19,1097.0,False,2019,SAT
+285,oklahoma,0.22,963.0,False,2019,SAT
+286,oregon,0.51,1112.0,False,2019,SAT
+287,pennsylvania,0.7,1082.0,False,2019,SAT
+288,rhode island,1.0,995.0,True,2019,SAT
+289,south carolina,0.68,1030.0,False,2019,SAT
+290,south dakota,0.03,1268.0,False,2019,SAT
+291,tennessee,0.07,1220.0,False,2019,SAT
+292,texas,0.68,1022.0,False,2019,SAT
+293,utah,0.04,1230.0,False,2019,SAT
+294,vermont,0.66,1106.0,False,2019,SAT
+295,virginia,0.68,1119.0,False,2019,SAT
+296,washington,0.7,1074.0,False,2019,SAT
+297,west virginia,0.99,943.0,True,2019,SAT
+298,wisconsin,0.03,1283.0,False,2019,SAT
+299,wyoming,0.03,1238.0,False,2019,SAT
