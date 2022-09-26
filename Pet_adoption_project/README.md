@@ -9,7 +9,7 @@ The purpose of this project is to use data science to help animal shelters get m
 [Presentation Link](https://docs.google.com/presentation/d/1__w8mf5US1aJ_Otg_dlM6X6e4mj7NIAvRq7aNizzQss/edit?usp=sharing)
 
 Front-End UI\
-Image Search: [link](https://nowrun.jina.ai/?host=grpcs://nowapi-d8dd92d7c4.wolf.jina.ai&input_modality=image&output_modality=image&data=custom)
+Image Search: [link](https://nowrun.jina.ai/?host=grpcs://nowapi-d8dd92d7c4.wolf.jina.ai&input_modality=image&output_modality=image&data=custom)\
 Adoption Outcome Prediction: [link](https://console.cloud.google.com/run/detail/asia-southeast1/pet-streamlit/metrics?project=cloud-run-tutorial-363303)
 
 ## Problem Statement
