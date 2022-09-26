@@ -13,11 +13,10 @@ import re
 import emoji
 from PIL import Image
 
-image_model = tf_load_model('../models/image_embeddings.h5')
-text_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
-pred_model = load_model('../models/pred_model2')
-
 def resize_image(im, img_size=300):
+    '''
+    Function to resize image and add paddings to keep the original image ratio. Returns a square sized image of specified size 
+    '''
     # Get original size of image in height and width
     original_size = im.shape[:2]
     ratio = float(img_size)/max(original_size)
@@ -36,13 +35,15 @@ def resize_image(im, img_size=300):
     return new_im
 
 def process_image(img_file):
+    '''
+    Function to extract features out of the image using CNN model. Returns 1d vector
+    '''
     # create blank canvas image
     processed_img = np.zeros((1,300,300,3))
     # read image
     try:
         img = Image.open(img_file)
-        img = img.save("img.jpg")
-        image = cv2.imread('img.jpg')
+        image = cv2.imread(img)
         image = resize_image(image)
         image = preprocess_input(image)
         processed_img[0] = image
@@ -56,6 +57,9 @@ def process_image(img_file):
     return img_embedding_dict
 
 def clean_text(description):
+    '''
+    Function to do some light cleaning on text data
+    '''
     clean_description = re.sub(r"http\S+", '', description)
     clean_description = emoji.demojize(clean_description)
     clean_description = re.sub(r"\b([-'])\b|[\W_]", ' ', clean_description)
@@ -63,6 +67,9 @@ def clean_text(description):
     return clean_description
 
 def get_text_embeddings(cleaned_text):
+    '''
+    Function to extract embeddings out of text data using sentence bert model. Returns 1d vector
+    '''
     text_embedding = text_model.encode(cleaned_text)
     text_embedding_dict = {}
     for i in range(len(text_embedding)):
@@ -78,6 +85,12 @@ def predict_outcome(input_data):
         result = "This pet is likely to get adopted within 100 days"
     return result
 
+# Import models
+image_model = tf_load_model('../models/image_embeddings.h5')
+text_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+pred_model = load_model('../models/pred_model2')
+
+# Defining input options for streamlit 
 maturity_size_options = {1: 'Small', 2: 'Medium', 3: 'Large'}
 fur_length_options = {1: 'Short', 2: 'Medium', 3: 'Long'}
 status_options = {1: 'Yes', 2: 'No', 3: 'Not Sure'}
