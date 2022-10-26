@@ -8,10 +8,6 @@ The purpose of this project is to use data science to help animal shelters get m
 
 [Presentation Link](https://docs.google.com/presentation/d/1__w8mf5US1aJ_Otg_dlM6X6e4mj7NIAvRq7aNizzQss/edit?usp=sharing)
 
-Front-End UI\
-Image Search: [link](https://nowrun.jina.ai/?host=grpcs://nowapi-d8dd92d7c4.wolf.jina.ai&input_modality=image&output_modality=image&data=custom)\
-Adoption Outcome Prediction: [link](https://pet-streamlit-jq4n5s3eia-as.a.run.app)
-
 ## Problem Statement
 
 Animal Shelters face the issue of shelter overcrowding and limited resources. The longer a pet remains in a shelter, the higher the risk of the pet being euthanized. The aim of this project is to help more pets get adopted. In order to do so, I will firstly examine what are some traits that influences pet adoption outcomes. Next, a classifier model will be created to predict whether pets will be adopted within a 100 days to help animal shelters identify the pets to allocate resources to. Lastly, an image search model will be developed to help adopters search for similar looking pets in the adoption listing.
